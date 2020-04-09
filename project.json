@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "GameRunner2D",
+  "uuid": "e65aff6e-929b-4690-ac17-57f9d853717f",
+  "version": "2.3.2",
+  "id": "d645d5bb-9e00-467f-b810-fd0e9cdc3717"
+}
